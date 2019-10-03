@@ -2,6 +2,7 @@
 <p align="center">My personal logger that I created for logging console messages with colors.</p>
 <div align="center">
   <img src="https://quak.ovh/6bek7JX.png" width="50%" />
+  <img src="https://i.kym-cdn.com/entries/icons/original/000/013/564/doge.jpg" width="50%" />
 </div>
 
 ## Installation 
