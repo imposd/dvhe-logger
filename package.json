@@ -1,0 +1,26 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "A simple clean console logger with colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvhe/logger.git"
+  },
+  "keywords": [
+    "logger"
+  ],
+  "author": "dvhe",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "moment": "^2.24.0"
+  },
+  "bugs": {
+    "url": "https://github.com/dvhe/logger/issues"
+  },
+  "homepage": "https://github.com/dvhe/logger#readme"
+}
