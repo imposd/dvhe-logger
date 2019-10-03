@@ -1,5 +1,5 @@
 {
-  "name": "logger",
+  "name": "dvhe-logger",
   "version": "1.0.0",
   "description": "A simple clean console logger with colors",
   "main": "index.js",
