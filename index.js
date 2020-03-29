@@ -17,9 +17,9 @@ class Logger {
         return console.error(`${date} ${chalk.bgRed(' ERROR ')} ${chalk.red(msg)}\n`);
     }
 
-    static db(...msg) {
+    static debug(...msg) {
         return console.log(
-            `${date} ${chalk.bgGreenBright(chalk.black(' DATABASE '))} ${chalk.greenBright(msg)}\n`);
+            `${date} ${chalk.bgGreenBright(chalk.black(' DEBUG '))} ${chalk.greenBright(msg)}\n`);
     }
 }
 
